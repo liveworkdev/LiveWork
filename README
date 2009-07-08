@@ -1,0 +1,1 @@
+This is an implementation of the API for http://livework.com. It uses ruby_oauth and creates a project using the API. Pretty simple example at this point. This implementation also currently points to localhost:3000, because the API server isn't up yet. So...yeah.
